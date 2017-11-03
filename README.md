@@ -18,4 +18,4 @@ So, using this for your message you can ecrypt it by your own key.
 For decoding, apply xor opration again, and you will receive your unecrypted message in binary format.
 Last step, is convert from binary to text.
 
-Example is vaible as Exaple.png.
+Example is available as Example.png.
