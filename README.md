@@ -20,6 +20,6 @@ Last step, is convert from binary to text.
 
 <hr>
 
-### Exaple:
+### Example:
 
 ![alt text](https://user-images.githubusercontent.com/10981310/36056065-d9bea552-0e09-11e8-9b69-e4a7846d7d45.PNG)
